@@ -5,6 +5,7 @@
 ![](https://github.com/networksuperman/my_certs/blob/main/img/226262687_yc-devops-terraformIP.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/226829873_ycloud-devsecops.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/%D0%94%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9%20%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%BF%D0%BE%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20GitOps.jpg)  
+![](https://github.com/networksuperman/my_certs/blob/main/img/image_2024-09-01_22-58-36.png)  
 
 ![](https://github.com/networksuperman/my_certs/blob/main/img/certificate-zcne-lv1-nebula-russian-64229e6fc89aa370ca1fc928.jpg)  
 
