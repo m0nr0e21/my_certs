@@ -56,3 +56,4 @@
 ![](https://github.com/networksuperman/my_certs/blob/main/img/TryHackMe%20Advent%20of%20Cyber%202022.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/TryHackMe%20Advent%20of%20Cyber%202023.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/TryHackMe%20Advent%202024.jpg)  
+![](https://github.com/networksuperman/my_certs/blob/main/img/codeby%20cert%20web.jpeg)  
