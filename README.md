@@ -3,7 +3,7 @@
 ![](https://github.com/networksuperman/my_certs/blob/main/img/IMG_20240902_190702.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/IMG_20240902_190639.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/IMG_20240902_190506.jpg)  
-![](https://github.com/networksuperman/my_certs/blob/main/img/stepik-certificate-%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D1%8F%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%85%D0%B0%D0%BA%D0%B5%D1%80.jpg)
+![](https://github.com/m0nr0e21/my_certs/blob/main/img/CyberEd%20Certificate.jpg)
 ![](https://github.com/networksuperman/my_certs/blob/main/img/cybered-blueteam.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/MaxPatrol%20SIEM%20Getting%20Started.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/MaxPatrol%20VM%20Getting%20Started.jpg)  
