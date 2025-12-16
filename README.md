@@ -16,6 +16,7 @@
 ![](https://github.com/networksuperman/my_certs/blob/main/img/certificate-zcnp-security-v10-en-60005467df7517691b55d472.png)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/IB.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/IgorPanarin-Cybersecurity%20Es-certificate.png)  
+![](https://github.com/m0nr0e21/my_certs/blob/main/img/Kraken%20-%20CCSS.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/DR%20WEB.png)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/stepik-certificate-127-e55816e.png)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/World%20Wide%20CTF%20certificate.jpg)  
