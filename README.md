@@ -1,4 +1,4 @@
-## My certificates
+## My certificates and diplomas
 
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/diplom2GH.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/SNSCertGH.jpg)  
