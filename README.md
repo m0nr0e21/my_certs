@@ -1,5 +1,7 @@
 ## My certificates
 
+![](https://github.com/m0nr0e21/my_certs/blob/main/img/diplom2GH.jpg)  
+![](https://github.com/m0nr0e21/my_certs/blob/main/img/SNSCertGH.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/IMG_20240902_190702.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/IMG_20240902_190639.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/IMG_20240902_190506.jpg)  
