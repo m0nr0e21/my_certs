@@ -6,6 +6,7 @@
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/CyberEd%20Certificate.jpg)
 ![](https://github.com/networksuperman/my_certs/blob/main/img/cybered-blueteam.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/CWPS.jpg)  
+![](https://github.com/m0nr0e21/my_certs/blob/main/img/photo_2026-07-10_16-23-30.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/ObsorMaxPatrolVM.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/MaxPatrol%20VM%20Getting%20Started.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/MaxPatrol%20SIEM%20Getting%20Started.jpg)  
