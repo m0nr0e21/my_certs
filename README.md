@@ -3,6 +3,7 @@
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/diplom2GH.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/SNSCertGH.jpg)  
 ![](https://github.com/networksuperman/my_certs/blob/main/img/IMG_20240902_190702.jpg)  
+![](https://github.com/m0nr0e21/my_certs/blob/main/img/photo_2026-07-10_16-23-35.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/CyberEd%20Certificate.jpg)
 ![](https://github.com/networksuperman/my_certs/blob/main/img/cybered-blueteam.jpg)  
 ![](https://github.com/m0nr0e21/my_certs/blob/main/img/CWPS.jpg)  
